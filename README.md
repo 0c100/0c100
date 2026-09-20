@@ -1,16 +1,37 @@
-## Hi there 👋
+Abdulrahman 👋
 
-<!--
-**0c100/0c100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity Student | Networking | Data Analytics | system administration | Programming
 
-Here are some ideas to get you started:
+Cybersecurity student focused on practical labs, security testing, networking, system administration, and programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+
+- Cybersecurity & Vulnerability Assessment
+- Networking & Network Security
+- System Administration
+- Data Analytics
+- Programming
+
+Tools & Technologies
+
+"Kali Linux" · "Nmap" · "Wireshark" · "OPNsense" · "GNS3" · "VMware" ·
+"Windows Server" · "Active Directory" · "Python" · "Java" · "C++" · "SQL" ·
+"HTML" · "CSS" · "JavaScript"
+
+Projects
+
+🧪 Cybersecurity Labs
+
+Practical labs using Kali Linux, Nmap, Wireshark, OPNsense, GNS3, Windows Server, and Active Directory.
+
+🌐 Web Projects
+
+Projects built with HTML, CSS, and JavaScript.
+
+🗄️ SQL Projects
+
+Database projects using SQL and relational database concepts.
+
+☕ Java OOP Project
+
+A commercial store management project built with Java and OOP concepts.
